@@ -45,3 +45,8 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.TR
+bin/IPT1.EXE
+*.LST
+bin/IPT1.MAP
+*.OBJ
